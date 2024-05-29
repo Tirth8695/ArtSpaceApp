@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="tirth">Tirth</string>
+    <string name="tirth_description">Tirth_2000</string>
+    <string name="tirth_2">Tirth_2000</string>
+    <string name="tirth_2_description">Tirth_2000_Description</string>
+    <string name="tirth_3">Tirth_3000</string>
+    <string name="tirth_3_description">Tirth_3000_Description</string>
+</resources>
